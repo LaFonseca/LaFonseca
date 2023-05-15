@@ -4,6 +4,8 @@ Eu sou o Leo, um cientista de dados de 32 anos em transição de carreira para a
 
 ![LaFonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=LaFonseca&show_icons=true&theme=dracula&count_private=true)
 
+<img align="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaFonseca&layout=compact&langs_count=7&theme=dracula"/>
+
 ## Linguagens de Programação 
 
 <div style="display: inline_block">
