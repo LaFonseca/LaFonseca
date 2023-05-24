@@ -2,9 +2,11 @@
 
 Eu sou o Leo, um cientista de dados de 32 anos em transição de carreira para a área de programação e tecnologia, com foco em back-end. Estou buscando aprimorar minhas habilidades em desenvolvimento de software, com ênfase em linguagens de programação como Python e JavaScript. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
 
-![LaFonseca GitHub stats](https://github-readme-stats.vercel.app/api?username=LaFonseca&show_icons=true&theme=dracula&count_private=true)
+![LaFonseca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaFonseca&show_icons=true&theme=radical)
 
-<img align="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaFonseca&layout=compact&langs_count=7&theme=dracula"/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaFonseca&show_icons=true&theme=radical)](https://github.com/LaFonseca/github-readme-stats)
+
+
 
 ## Linguagens de Programação 
 
