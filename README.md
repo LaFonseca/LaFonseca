@@ -2,6 +2,7 @@
 
 Eu sou o Leo, um cientista de dados de 33 anos em transição de carreira para a área de programação e tecnologia, com foco em back-end. Estou aprimorando minhas habilidades em desenvolvimento de software com ênfase em linguagens de programação como Python e JavaScript. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
 
+![](https://raw.githubusercontent.com/LaFonseca/master/profile-summary-card-output/dark/1-repos-per-language.svg)
 
 ## Linguagens de Programação 
 
