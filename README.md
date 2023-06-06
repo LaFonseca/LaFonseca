@@ -1,6 +1,6 @@
 ## Fala, pessoal!
 
-Eu sou o Leo, um cientista de dados de 33 anos apaixonado pela área de programação e tecnologia com foco em back-end. Estou aprimorando minhas habilidades em desenvolvimento de software com ênfase em linguagens de programação como Python e JavaScript. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
+Eu sou o Leo, um analista de dados de 33 anos apaixonado pela área de programação e tecnologia com foco em back-end. Estou aprimorando minhas habilidades em desenvolvimento de software com ênfase em linguagens de programação como Python e JavaScript. Estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.
 
 
 
